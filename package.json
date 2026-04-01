@@ -1,5 +1,9 @@
 {
   "name": "ai-dev-kit",
   "version": "1.1.0",
-  "private": true
+  "type": "module",
+  "private": true,
+  "exports": {
+    ".": "./.opencode/plugins/ai-dev-kit.js"
+  }
 }
