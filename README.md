@@ -44,6 +44,14 @@ git clone https://github.com/AgoraIO-Community/ai-dev-kit.git ~/ai-dev-kit
 ln -s ~/ai-dev-kit/skills/ai-dev-kit ~/.cursor/rules/ai-dev-kit
 ```
 
+**OpenCode**
+
+Clone the repo into your workspace (or anywhere) and OpenCode will load the local plugin from `.opencode/plugins/`:
+
+```bash
+git clone https://github.com/AgoraIO-Community/ai-dev-kit.git ~/ai-dev-kit
+```
+
 **Any agent**
 
 ```bash
